@@ -23,7 +23,7 @@
 }
 
 #home {
-  background: url(img/outdoors.jpg) no-repeat center center fixed;
+  background: url(img/main.jpg) no-repeat center center fixed;
   display: table;
   height: 100%;
   position: relative;
@@ -36,6 +36,7 @@
   display: table-cell;
   text-align: center;
   vertical-align: middle;
+  color: #FF44FF;
 }
 
 .landing.text h1{
@@ -48,7 +49,7 @@
 }
 
 .padding img{
-  width:100%
+  width:100%;
 }
 
 #fixed{
